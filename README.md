@@ -1,5 +1,5 @@
 # ZJava-Basic
-### 项目名介绍
+### 项目介绍
 看了杰神的[Repo](https://github.com/crossoverJie/JCSprout)很有感触，决定静下心来把自己学过的技术都巩固一下。
 ### 常用集合
 * ArrayList
