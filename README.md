@@ -1,6 +1,6 @@
 # ZJava-Basic
 ### 项目介绍
-看了杰神的[Repo](https://github.com/crossoverJie/JCSprout)很有感触，决定静下心来把学过的技术都重新巩固一下。
+看了杰神的[Repo](https://github.com/crossoverJie/JCSprout)很有感触，决定把基础打扎实了。
 ### 常用集合
 * ArrayList
 * LinkedList
